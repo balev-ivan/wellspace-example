@@ -1,0 +1,59 @@
+#main_about {
+    display: block;
+    width: 100%;
+    float: none;
+    border: 1px solid red;
+}
+
+#main_about_left {
+    display: block;
+    width: 40%;
+    border: 1px solid green;
+    float: left;
+}
+
+#main_about_right {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    border: 1px solid blue;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p_big {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 3px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border: 1px solid red;
+    width: 100%;
+}
+
+#p_small {
+    font-size: 14px;
+    margin: 0;
+    letter-spacing: 2px;
+    padding-bottom: 40px;
+    border: 1px solid red;
+    width: 100%;
+}
+
+#find_office {
+    margin: 15px 15px 15px 0;
+    width: 200px;
+}
+
+#main_about_left img {
+    border: 1px solid red;
+    width: 100%;
+}
+
+#main_about_right img {
+    border: 1px solid red;
+    width: 490px;
+    right: 50px;
+}
