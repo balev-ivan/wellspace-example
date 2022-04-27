@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17ea92e1-e50f-48dc-83a1-a14afb16d813" name="Changes" comment="First version">
+    <list default="true" id="17ea92e1-e50f-48dc-83a1-a14afb16d813" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/join.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/workspace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/join.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/workspace.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/workspace.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,19 +101,8 @@
       <workItem from="1650268675167" duration="15654000" />
       <workItem from="1650388314975" duration="3924000" />
       <workItem from="1650477013992" duration="5366000" />
-      <workItem from="1650522607147" duration="11840000" />
-      <workItem from="1650911865917" duration="4664000" />
-      <workItem from="1650958123825" duration="4145000" />
-      <workItem from="1651047004078" duration="1576000" />
+      <workItem from="1650522607147" duration="9444000" />
     </task>
-    <task id="LOCAL-00001" summary="First version">
-      <created>1650561919808</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1650561919808</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,9 +118,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
   </component>
 </project>

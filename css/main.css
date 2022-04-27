@@ -34,7 +34,6 @@ nav {
     height: 100%;
     float: left;
     padding-left: 150px;
-    padding-right: 50px;
 }
 
 ul {
@@ -67,26 +66,23 @@ a:active {
 }
 
 #join_button {
-    display: block;
+
     float: right;
     border: 1px solid yellow;
     width: 100px;
+
     text-align: center;
     margin-right: 60px;
 }
 
 #join_button a {
-    display: inline-block;
     background-color: #F7BB5B;
-    height: 15px;
-    padding-top: 15px;
-    padding-bottom: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+
+
 }
 
 /* Mobiles/tablets */
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
     /* Title and Navigation */
     nav {
         padding-left: 30px;
@@ -99,7 +95,7 @@ a:active {
     }
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 800px) {
     /* Title and Navigation */
     h1 {
         float: none;
